@@ -1,3 +1,5 @@
+[🌐 Visit Rabta Website](https://raabtaorg.lovable.app)
+
 <div align="center">
 
 # राबता · RABTA
@@ -136,6 +138,7 @@ The organization profile describes a student preparing for an interview opportun
 - Expand food-support initiatives
 
 ### Long-term vision
+
 Develop Rabta into a scalable community platform connecting **children, education, skills, mentorship, and opportunities**.
 
 ## 👤 Founder
@@ -146,10 +149,9 @@ The supplied profile describes Tammana Rathore as the founder who personally tea
 
 ## 🔗 Connect
 
-- Website: [https://raabtaorg.lovable.app](https://raabtaorg.lovable.app)
-
-- Organization Instagram: [@rabata._.official](https://www.instagram.com/rabata._.official/)
-- Founder Instagram: [@rathore._.tammana](https://www.instagram.com/rathore._.tammana/)
+- **Website:** [https://raabtaorg.lovable.app](https://raabtaorg.lovable.app)
+- **Organization Instagram:** [@rabata._.official](https://www.instagram.com/rabata._.official/)
+- **Founder Instagram:** [@rathore._.tammana](https://www.instagram.com/rathore._.tammana/)
 
 ## 📁 Repository Guide
 
@@ -169,7 +171,8 @@ Please obtain appropriate permission before publishing identifiable information,
 
 <div align="center">
 
-**राबता · RABTA**  
+**राबता · RABTA**
+
 *Education. Skills. Opportunity. Empowerment.*
 
 <sub>Derabassi, Punjab, India</sub>
